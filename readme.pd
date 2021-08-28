@@ -1,0 +1,25 @@
+Initial normal startup, no snapshots taken.
+Pre-built libraries.
+
+_______________________________Python3______________________________________
+
+pp-v ==  20.1.1
+ C:\Users\Asus\anaconda3\lib\site-packages\pip
+np-v ==  '1.18.5'
+sc-v ==  '1.5.0'
+pd-v ==  '1.0.5'
+mp-v ==  '3.2.2'
+
+#keras
+#torch
+
+Secondary:
+C:\Users\Asus\anaconda3\python.exe
+C:\Users\Asus\AppData\Local\Microsoft\WindowsApps\python.exe
+
+Base:
+C:\Users\Asus\AppData\Local\Programs\Python\Python39\python.exe
+C:\Users\Asus\AppData\Local\Microsoft\WindowsApps\python.exe
+
+WSL:
+/usr/bin/python
